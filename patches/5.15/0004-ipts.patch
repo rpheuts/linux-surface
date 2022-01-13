@@ -90,7 +90,7 @@ diff --git a/drivers/misc/Makefile b/drivers/misc/Makefile
 index a086197af544..972cae33ba36 100644
 --- a/drivers/misc/Makefile
 +++ b/drivers/misc/Makefile
-@@ -58,3 +58,4 @@ obj-$(CONFIG_XILINX_SDFEC)      += xilinx_sdfec.o
+@@ -59,3 +59,4 @@ obj-$(CONFIG_XILINX_SDFEC)      += xilinx_sdfec.o
 obj-$(CONFIG_HISI_HIKEY_USB)    += hisi_hikey_usb.o
 obj-$(CONFIG_HI6421V600_IRQ)    += hi6421v600-irq.o
 obj-$(CONFIG_WINESYNC)          += winesync.o
